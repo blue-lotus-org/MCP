@@ -309,4 +309,6 @@ Start with implementing the adapter layer first, then build out the context mana
 
 **Disclaimer**: The codes may not ultimately produce real results, this is just a workaround. Understand the path architecture and build the foundation for this movement in the world of AI.
 
+Licenses: MIT , Apache 2 — So feel free to use & edit & distribution.
+
 **credit**: [Blue Lotus](https://lotuschain.org)
