@@ -303,7 +303,7 @@ def test_cross_model_processing():
 
 Start with implementing the adapter layer first, then build out the context management system before adding tool integrations. Use gradual rollout with shadow mode (run both models but only show one output) to compare performance before full deployment.
 
-💐**Congratulations, you own your own MCP-like framework!**🍷
+💐 **Congratulations, you own your own MCP-like framework!** 🍷
 
 ---
 
