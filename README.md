@@ -1,5 +1,5 @@
 # LOTUS-MCP
-**FOSS solution**
+**[FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) solution**
 
 The Model Context Protocol (MCP) developed by Anthropic for Claude is a groundbreaking open standard that enables AI assistants to connect with external data sources and tools.\
 As a developer or business maybe you like to have your own protocol. This guide made for you.
