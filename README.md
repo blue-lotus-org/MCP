@@ -71,7 +71,7 @@ Now step-by-step guide to building a unified **Model Context Protocol (MCP)** sy
 
 ---
 
-## **MCP Architecture Design**
+## OUR **MCP Architecture Design**
 ```ascii
 ┌──────────────┐       ┌───────────────┐       ┌──────────────┐
 │              │       │               │       │              │
