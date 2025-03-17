@@ -35,6 +35,9 @@ First looking into MCP exist by claude:
 +-------------+     +-------------+     +-------------+
 ```
 
+---
+
+## Statement
 Then implement a new modernized structure for MCP. So first thing first is the cost:
 ```
 | Metric          | Mistral Target | Gemini Target |
