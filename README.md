@@ -68,6 +68,7 @@ This is `User Input → Mistral (code/text processing) → Gemini (multimodal en
 
 # Beginning our journey 
 Now step-by-step guide to building a unified **Model Context Protocol (MCP)** system for integrating **Mistral** and **Gemini** in one application:
+- looking [example file](./example.py) for learn more.
 
 ---
 
