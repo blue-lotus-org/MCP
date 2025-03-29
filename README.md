@@ -1,3 +1,7 @@
+<div align="right">
+<sub>Public | Free OpenSource</sub>
+</div>
+
 # LOTUS-MCP
 **[FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) solution**
 
