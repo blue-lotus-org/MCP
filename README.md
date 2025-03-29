@@ -1,6 +1,13 @@
 # LOTUS-MCP
 **[FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) solution**
 
+The LOTUS-MCP protocol outlined here is an impressive approach to **model coordination and processing**, integrating Mistral and Gemini with a structured architecture that allows for:
+- Routing & fallback strategies between models.
+- Consensus engine to compare outputs.
+- Context-aware processing, improving coherence across interactions.
+- Tool integration, making it extensible for external APIs.
+- Rate limiting & security for production stability.
+
 The Model Context Protocol (MCP) developed by Anthropic for Claude is a groundbreaking open standard that enables AI assistants to connect with external data sources and tools.\
 As a developer or business maybe you like to have your own protocol. This guide made for you.
 
